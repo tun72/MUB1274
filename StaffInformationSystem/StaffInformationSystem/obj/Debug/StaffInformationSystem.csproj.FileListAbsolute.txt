@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\bin\Debug\StaffInformationSystem.exe.config
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.csprojResolveAssemblyReference.cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.Form1.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.Properties.Resources.resources
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\bin\Debug\Staff.mdf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\bin\Debug\Staff_log.ldf
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\bin\Debug\StaffInformationSystem.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\bin\Debug\StaffInformationSystem.pdb
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.exe
+C:\Users\User\OneDrive - University of Computer Studies (Maubin)\Desktop\MUB1274\StaffInformationSystem\StaffInformationSystem\obj\Debug\StaffInformationSystem.pdb
